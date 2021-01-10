@@ -141,12 +141,12 @@ ShowTrayIcons                   # HideTrayIcons
 DisableSearchAppInStore         # EnableSearchAppInStore
 DisableNewAppPrompt             # EnableNewAppPrompt
 # HideRecentlyAddedApps         # ShowRecentlyAddedApps
-# HideMostUsedApps              # ShowMostUsedApps
+HideMostUsedApps              # ShowMostUsedApps
 # SetWinXMenuPowerShell         # SetWinXMenuCmd
-# SetControlPanelSmallIcons     # SetControlPanelLargeIcons     # SetControlPanelCategories
+# SetControlPanelSmallIcons     # SetControlPanelLargeIcons      SetControlPanelCategories
 DisableShortcutInName           # EnableShortcutInName
 # HideShortcutArrow             # ShowShortcutArrow
-SetVisualFXPerformance          # SetVisualFXAppearance
+#SetVisualFXPerformance          SetVisualFXAppearance
 # EnableTitleBarColor           # DisableTitleBarColor
 SetAppsDarkMode               # SetAppsLightMode
 # SetSystemLightMode            # SetSystemDarkMode
